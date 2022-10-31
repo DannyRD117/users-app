@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DannyRD117/users-app/static/css/main.eb1d1019.css",
+    "main.js": "/DannyRD117/users-app/static/js/main.b95769c0.js",
+    "index.html": "/DannyRD117/users-app/index.html",
+    "main.eb1d1019.css.map": "/DannyRD117/users-app/static/css/main.eb1d1019.css.map",
+    "main.b95769c0.js.map": "/DannyRD117/users-app/static/js/main.b95769c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb1d1019.css",
+    "static/js/main.b95769c0.js"
+  ]
+}
